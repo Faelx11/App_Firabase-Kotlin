@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803128817398",
+    "project_id": "fir-jeferson21-10",
+    "storage_bucket": "fir-jeferson21-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803128817398:android:0d9cf34614ba7610829ed7",
+        "android_client_info": {
+          "package_name": "com.example.appfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASR8Sb_50M1Av2WUckbSrgiLkaoLS_A2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
